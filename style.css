@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
 
-:root{
-    --button-height: 50px;
-    --button-width: calc(var(--button-height) *  1.618);
-}
-
 body{
     display: flex;
     justify-content: center;
